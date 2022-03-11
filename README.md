@@ -3,12 +3,12 @@
 ![Python Logo](https://img.icons8.com/color/98/000000/python.png)
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/return-go?color=red&label=repository%20size)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepabandara/return-go?color=red)
-![GitHub language count](https://img.shields.io/github/languages/count/dileepabandara/return-go)
-![GitHub top language](https://img.shields.io/github/languages/top/dileepabandara/return-go)
-![GitHub](https://img.shields.io/github/license/dileepabandara/return-go?color=yellow)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepabandara/return-go?color=brightgreen&label=commits)
+![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/python-intro-tkinter?color=red&label=repository%20size)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepabandara/python-intro-tkinter?color=red)
+![GitHub language count](https://img.shields.io/github/languages/count/dileepabandara/python-intro-tkinter)
+![GitHub top language](https://img.shields.io/github/languages/top/dileepabandara/python-intro-tkinter)
+![GitHub](https://img.shields.io/github/license/dileepabandara/python-intro-tkinter?color=yellow)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepabandara/python-intro-tkinter?color=brightgreen&label=commits)
 
 ## ✨ About
 
